@@ -51,3 +51,9 @@ Among the settings are:
 - Compression for intermediate (regular style) DDS.
 - Backup the original normal map files or replace upon conversion.
 - Disabling of the green channel inversion (only disable if sure your normal map editor requires it).
+
+***
+
+### Credits
+
+Thanks to Wheaton Adams#4857 (discord) for initial ImageMagick channel processing commands and script idea proposal.
