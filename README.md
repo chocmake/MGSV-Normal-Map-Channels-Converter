@@ -1,6 +1,6 @@
 # MGSV Normal Map Channels Converter
 
-Converts RGBA channels of DDS texture files between Fox Engine style normals and regular style normals.
+Converts RGBA channels of DDS texture files between Fox Engine style normals and regular style normals using ImageMagick.
 
 Both files and entire directories containing texture files can be sent to the script (the script will only convert the normal maps among them). Directories are parsed non-recursively.
 
