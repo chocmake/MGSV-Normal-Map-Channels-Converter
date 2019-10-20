@@ -54,6 +54,12 @@ Among the settings are:
 
 ***
 
+### Miscellaneous
+
+With the suffix-less detection setting enabled if a DDS file doesn't meet the minimum threshold to be determined as a normal map texture the script will list it as `[Skipped]` in the window log.
+
+***
+
 ### Credits
 
 Thanks to Wheaton Adams#4857 (discord) for initial ImageMagick channel processing commands and script idea proposal.
