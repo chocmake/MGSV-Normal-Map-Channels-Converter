@@ -1,4 +1,4 @@
-# MGSV-Normal-Map-Channels-Converter
+# MGSV Normal Map Channels Converter
 
 Converts RGBA channels of DDS texture files between Fox Engine style normals and regular style normals.
 
