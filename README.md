@@ -16,6 +16,8 @@ Example GIF of suffix-less filename conversion:
 
 ![Example of suffix-less conversion](https://user-images.githubusercontent.com/34178938/67155399-3dbe5200-f35a-11e9-87bb-5dfc659922dd.gif)
 
+*Note: in the GIFs above the uncompressed intermediate setting was disabled so the thumbnails could update to show the conversion more visually. By default an uncompressed intermediate is used to avoid compressing twice to DTX5.*
+
 ***
 
 ### Dependancies
