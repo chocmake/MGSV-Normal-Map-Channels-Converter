@@ -56,7 +56,7 @@ Among the settings are:
 
 ### Other notes
 
-- If the source DDS files to be converted intially are regular style normals the detection process of the script can be sped up by suffixing their filenames with `_nrm_reg.dds`, which the script will immediate detect as regular style normals. Otherwise a visual comparison is made which adds a delay.
+- If the source DDS files to be converted intially are regular style normals the detection process of the script can be sped up by suffixing their filenames with `_nrm_reg.dds`, which the script will immediately detect as regular style normals. Otherwise a visual comparison is made which adds a delay.
 
 - With the suffix-less detection setting enabled if a DDS file doesn't meet the minimum threshold to be determined as a normal map texture the script will list it as `[Skipped]` in the window log.
 
